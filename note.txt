@@ -1,0 +1,6 @@
+// * Summary 
+1. Menambah library test untuk unit test
+
+command: npm i --save-dev jest@types/jest
+
+command setup typescript: npx tsc --init
